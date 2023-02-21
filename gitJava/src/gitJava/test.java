@@ -1,5 +1,4 @@
-```java
-package hellojava;
+package gitJava;
 
 public class test {
 
@@ -8,4 +7,3 @@ public class test {
 	}
 
 }
-```
